@@ -4,13 +4,11 @@ Welcome to the official **Jackal Coin Whitepaper** repository.
 
 This repository provides open access to the technical and conceptual documentation behind Jackal Coin, including its mission, technology, tokenomics, roadmap, ecosystem, and future plans.
 
----
 
 ## Official Whitepaper Link
 
 https://jackalcoin.org/whitepaper
 
----
 
 ## About This Whitepaper
 
@@ -31,8 +29,6 @@ The Jackal Coin Whitepaper serves as a comprehensive guide to understanding the 
 - **Use Cases**  
   The primary purpose of Jackal Coin is to support the development of the **Jackal Terminal**.
 
----
-
 
 ## How to Use
 
@@ -40,7 +36,6 @@ The Jackal Coin Whitepaper serves as a comprehensive guide to understanding the 
 - Share the Whitepaper with potential investors, partners, and the community.
 - Reference it in media, articles, or research, respecting the license terms.
 
----
 
 ## License
 
@@ -54,14 +49,12 @@ This means:
 
 Read the full license text here: https://creativecommons.org/licenses/by-nd/4.0/
 
----
 
 ## Official Resources
 
 - **Official Website:** https://jackalcoin.org
 - **Whitepaper Page:** https://jackalcoin.org/whitepaper
 
----
 
 ## Contact
 
