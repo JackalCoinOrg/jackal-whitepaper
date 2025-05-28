@@ -65,5 +65,7 @@ Read the full license text here: https://creativecommons.org/licenses/by-nd/4.0/
 
 ## Contact
 
-For partnership inquiries, technical questions, or media requests:  
-**Email:** info@jackalcoin.org
+**Email:** [legal@jackalcoin.org](mailto:legal@jackalcoin.org)
+
+## Disclaimer
+The cryptocurrency market is known for its volatile and highly speculative nature, offering great opportunities but also significant challenges. Jackal Coin ($JACKAL) seeks to ensure transparency regarding the risks involved and to keep its community informed.
